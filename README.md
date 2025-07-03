@@ -1,53 +1,63 @@
-<h1 align="center">Hi 👋, I'm Saptarshi Adhikari</h1>
-<h3 align="center">B.Tech (AI & DS) | Frontend Dev • Figma • ChatGPT | Learning C++, Python, GitHub | Open to remote internships & freelance work</h3>
+<h1 align="center">👋 Hi, I'm Saptarshi Adhikari</h1>
+<h3 align="center">🎓 B.Tech (AI & DS) Student | 💻 Frontend Developer | 🎨 Figma | 🤖 ChatGPT Enthusiast</h3>
+<h4 align="center">🚀 Open to Remote Internships & Freelance Projects</h4>
 
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=saptarshi-adhikari&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" /> 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=saptarshi-adhikari&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
-- 🌱 I’m currently learning **C++, Python, GitHub, and version control**
-- 👨‍💻 All of my projects are available on [GitHub](https://github.com/Saptarshi-Adhikari/)
+---
+
+### 📚 About Me
+
+- 🔭 I’m a first-year B.Tech student in AI & Data Science at **MSIT**
+- 🌱 Currently learning **C++, Python, GitHub, and version control**
 - 💬 Ask me about **HTML, CSS, Figma, ChatGPT, and frontend development**
-- 📫 Reach me at **saptarshi.adhikari.77@gmail.com**
-- 📄 View my resume on [LinkedIn](https://www.linkedin.com/in/saptarshi-adhikari-81942136a/)
-- ⚡ Fun fact: **I believe in “If it works, don’t touch it” 😄**
+- 👨‍💻 All of my projects live at: [GitHub/Saptarshi-Adhikari](https://github.com/Saptarshi-Adhikari)
+- 📄 Resume & background: [LinkedIn Profile](https://www.linkedin.com/in/saptarshi-adhikari-81942136a/)
+- 📫 Contact me: **saptarshi.adhikari.77@gmail.com**
+- ⚡ Fun fact: *"I believe in 'If it works, don’t touch it' 😄"*
 
 ---
 
-### 🔗 Connect with me
+### 🔗 Connect with Me
+
 <p align="left">
-  <a href="https://www.linkedin.com/in/saptarshi-adhikari-81942136a/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
+  <a href="https://www.linkedin.com/in/saptarshi-adhikari-81942136a/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="30" alt="LinkedIn" />
   </a>
-  <a href="https://instagram.com/saptarshii_7" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" />
+  <a href="https://instagram.com/saptarshii_7" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" height="30" alt="Instagram" />
   </a>
-  <a href="https://auth.geeksforgeeks.org/user/saptarshia9ex9" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="GFG" height="30" width="40" />
+  <a href="https://auth.geeksforgeeks.org/user/saptarshia9ex9" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" height="30" alt="GFG" />
   </a>
 </p>
 
 ---
 
-### 🛠️ Languages and Tools
-<p align="left"> 
-  <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
-  <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-  <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
-  <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-  <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-  <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
+### 🛠️ Tech Stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,cpp,python,figma,git,github,vscode" />
 </p>
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Analytics
+
+<div align="center">
 
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=saptarshi-adhikari&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=saptarshi-adhikari&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saptarshi-adhikari&show_icons=true&locale=en" alt="GitHub Stats" /></p>
+<p>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saptarshi-adhikari&theme=tokyonight" alt="GitHub Streak" />
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saptarshi-adhikari" alt="GitHub Streak" /></p>
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=saptarshi-adhikari&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
+</div>
