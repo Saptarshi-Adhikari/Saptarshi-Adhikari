@@ -11,7 +11,7 @@
 ### 📚 About Me
 
 - 🔭 I’m a first-year B.Tech student in AI & Data Science at **MSIT**
-- 🌱 Currently learning **C++, Python, GitHub, and version control**
+- 🌱 Currently learning **C++, react js**
 - 💬 Ask me about **HTML, CSS, Figma, ChatGPT, and frontend development**
 - 👨‍💻 All of my projects live at: [GitHub/Saptarshi-Adhikari](https://github.com/Saptarshi-Adhikari)
 - 📄 Resume & background: [LinkedIn Profile](https://www.linkedin.com/in/saptarshi-adhikari-81942136a/)
